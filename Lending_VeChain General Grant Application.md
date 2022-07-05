@@ -181,56 +181,63 @@ stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
 
 2.1 Team members
 
-+---------------+------------------------------------------+
-| Team leader:  | Mr. Truong Phan (CEO)                    |
-+===============+==========================================+
-|               |                                          |
-+---------------+------------------------------------------+
-| Team members: | Mr. Tram Vo (CTO)                        |
-+---------------+------------------------------------------+
-|               | Mr. Phat Nguyen (Lead DevOps Engineer)   |
-+---------------+------------------------------------------+
-|               | Mr. Hanh Nguyen (Lead Frontend Engineer) |
-|               |                                          |
-|               | -   1 system engineer                    |
-|               |                                          |
-|               | -   2 frontend engineers                 |
-|               |                                          |
-|               | -   3 blockchain engineers               |
-|               |                                          |
-|               | -   3 backend engineers                  |
-|               |                                          |
-|               | -   1 tester                             |
-|               |                                          |
-|               | -   1 designer                           |
-+---------------+------------------------------------------+
-
+<pre > 
++---------------+------------------------------------------+ 
+| Team leader:  | Mr. Truong Phan (CEO)                    | 
++===============+==========================================+ 
+|               |                                          | 
++---------------+------------------------------------------+ 
+| Team members: | Mr. Tram Vo (CTO)                        | 
++---------------+------------------------------------------+ 
+|               | Mr. Phat Nguyen (Lead DevOps Engineer)   | 
++---------------+------------------------------------------+ 
+|               | Mr. Hanh Nguyen (Lead Frontend Engineer) | 
+|               |                                          | 
+|               | -   1 system engineer                    | 
+|               |                                          | 
+|               | -   2 frontend engineers                 | 
+|               |                                          | 
+|               | -   3 blockchain engineers               | 
+|               |                                          | 
+|               | -   3 backend engineers                  | 
+|               |                                          | 
+|               | -   1 tester                             | 
+|               |                                          | 
+|               | -   1 designer                           | 
++---------------+------------------------------------------+ 
+</pre> 
 
 2.2 Team Website
+
+<pre > 
 
   Website    https://vebank.io
   ---------- -----------------------------
   Twitter    
   Telegram   https://t.me/vebank_offical
   Email      hello@esollabs.com
+</pre> 
+
 
 2.3 Team's experience
+
+<pre> 
 
 +-------------+--------------------------+--------------------------+
 | **Name**    | **Experience**           | **Previous               |
 |             |                          | project/skill**          |
-+=============+==========================+==========================+
-| Truong Phan | - Senior Project         | - Stably various         |
-|             | Manager at Stably,       | stablecoin projects:     |
-|             | Seattle-based stablecoin | VeUSD on VeChain, USDS   |
-|             | company.                 | on Harmony, Chia,        |
-|             |                          | ICON,...                 |
-|             | - 6 years of experience  |                          |
-|             | leading product          | - Gohub.vn - tech        |
-|             | development for          | startup in e-SIM and     |
-|             | traditional finance and  | telecom services         |
-|             | blockchain technology.   |                          |
-+-------------+--------------------------+--------------------------+
++=============+==========================+==========================+ 
+| Truong Phan | - Senior Project         | - Stably various         | 
+|             | Manager at Stably,       | stablecoin projects:     | 
+|             | Seattle-based stablecoin | VeUSD on VeChain, USDS   | 
+|             | company.                 | on Harmony, Chia,        | 
+|             |                          | ICON,...                 | 
+|             | - 6 years of experience  |                          | 
+|             | leading product          | - Gohub.vn - tech        | 
+|             | development for          | startup in e-SIM and     | 
+|             | traditional finance and  | telecom services         | 
+|             | blockchain technology.   |                          | 
++-------------+--------------------------+--------------------------+ 
 | Tram Vo     | - Over 8 years           | - Language: Python,      |
 |             | experience in software   | Java, Solidity,          |
 |             | development              | Javascript, C/C++.       |
@@ -287,6 +294,8 @@ stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
 |             |                          | Javascript/Typescript    |
 |             |                          | React, Web3, SASS/SCSS   |
 +-------------+--------------------------+--------------------------+
+</pre> 
+
 
 2.4 Team Code Repos
 
@@ -295,13 +304,15 @@ stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
   Github         https://github.com/vebank
 
 2.5 Team LinkedIn Profiles
+<pre> 
 
   **Name**          **Linked in Profile**
   ----------------- --------------------------------------------------------
-  Mr. Truong Phan   https://www.linkedin.com/in/buckphan/
-  Mr. Tram Vo       https://www.linkedin.com/in/tram-vo-a72309199/
-  Mr. Phat Nguyen   https://www.linkedin.com/in/phat-nguyen-kim-715481233/
+  Mr. Truong Phan   https://www.linkedin.com/in/buckphan/ 
+  Mr. Tram Vo       https://www.linkedin.com/in/tram-vo-a72309199/ 
+  Mr. Phat Nguyen   https://www.linkedin.com/in/phat-nguyen-kim-715481233/ 
   Mr. Hanh Nguyen   https://www.linkedin.com/in/hanh-nguyen-21839923a/
+</pre> 
 
 **3. Development Roadmap**
 
@@ -313,23 +324,26 @@ stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
 
 3.2. Overview
 
-+-------------+-------------+-------------+-------------+-------------+ <br />
-|             | Milestone 1 | Milestone 2 | Milestone 3 | **Total**   | <br />
-+=============+=============+=============+=============+=============+ <br />
-| Estimated   | 4 months    | 2 months    | 2 months    | **8 month** | <br />
-| Duration    |             |             |             |             | <br />
-+-------------+-------------+-------------+-------------+-------------+ <br />
-| Full-time   | 9           | 9           | 9           |             | <br />
-| equivalent  | developers  | developers  | developers  |             | <br />
-| (FTE)       |             |             |             |             | <br />
-+-------------+-------------+-------------+-------------+-------------+ <br />
-| Cost        | $80,000     | $40,000     | $40,000     | **          | <br />
-|             | development | development | development | $190,000**  | <br />
-|             |             |             | cost        |             | <br />
-|             | cost        | cost        |             |             | <br />
-|             |             |             | $30,000    |              | <br />
-|             |             |             | audit fees  |             | <br />
-+-------------+-------------+-------------+-------------+-------------+ <br />
+<pre> 
+
++-------------+-------------+-------------+-------------+-------------+
+|             | Milestone 1 | Milestone 2 | Milestone 3 | **Total**   |
++=============+=============+=============+=============+=============+
+| Estimated   | 4 months    | 2 months    | 2 months    | **8 month** |
+| Duration    |             |             |             |             |
++-------------+-------------+-------------+-------------+-------------+
+| Full-time   | 9           | 9           | 9           |             |
+| equivalent  | developers  | developers  | developers  |             |
+| (FTE)       |             |             |             |             |
++-------------+-------------+-------------+-------------+-------------+
+| Cost        | $80,000     | $40,000     | $40,000     | **          |
+|             | development | development | development | $190,000**  |
+|             |             |             | cost        |             |
+|             | cost        | cost        |             |             |
+|             |             |             | $30,000    |              |
+|             |             |             | audit fees  |             |
++-------------+-------------+-------------+-------------+-------------+
+</pre> 
 
 
 *3.2.1 Milestone 1 --- Launch on VeChain testnet for the core lending functionalities* 
