@@ -42,6 +42,8 @@ the blockchain data, or via their favorite web3 providers.
 
 a.  How it works.
 
+Demo video: https://www.youtube.com/watch?v=FhHClJG6aG8
+
 *VeBank is an automated liquidity protocol powered by a constant product
 formula and a system of non-upgradeable smart contracts on the VeChain
 blockchain. It obviates the need for trusted intermediaries and
