@@ -181,6 +181,44 @@ The initiatives include cross-chain bridges to bring BTC, ETH and other
 assets to VeChain, concentrated liquidity (similar to Uniswap v3),
 stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
 
+## 2. Team
+
+### 2.1 Team members
+|||
+| --- | --- |
+| Team leaders: | Mr. Truong Phan (CEO) |
+|| Mr. Tram Vo (CTO) |
+| Team members: | Mr. Phat Nguyen (DevOps Team Lead) |
+|| Mr. Hanh Nguyen (Frontend Team Lead)|
+||+ 1 system engineer<br>+ 1 blockchain engineer<br>+ 1 backend engineer<br> + 1 designer<br>|
+
+### 2.2 Team Website
+
+#### 2.2.1 Team&#39;s experience
+
+| Name | <p align="center">Experience<p> | <p align="center">Previous project/skill<p> |
+| --- | --- | --- |
+| Truong Phan | <ul><li>Senior Project Manager at Stably, Seattle-based stablecoin company.<li>6 years of experience leading product development for traditional finance and blockchain technology. | <ul><li>Stably various stablecoin projects: VeUSD on VeChain, USDS on Harmony, Chia, ICON,...<li> Gohub.vn - tech startup in e-SIM and telecom services |
+| Tram Vo | <ul><li> Over 8-year experience in Software development<li> Deep experience in software development for large-scale systems, with over 25 million users and 2 million CCU at the 2018 AFC U-23 Championship.<li> Profound understanding of many subjects in software development such as requirement analysis, implementation, code review, testing, deployment process, alert and monitoring system.<li>Technical leader for 2 blockchain projects | <ul><li> Language: Python, Java, Solidity, Javascript, C/C++.<li> Database: MongoDB, MySQL, Redis, Firebase.<li> Tech: Docker, Redis, Micro-services architecture.<li> Cloud: GCP, AWS.<li> OS: Linux, Windows.<li> Blockchain: EVM, Truffle, Remix, Ganache.<li> Management: Agile, Jira. |
+| Phat Nguyen | <ul><li> 7+ years of experience as a Senior DevOps Engineer with different server systems, especially streaming systems.<li> Experience in handling a large number of users (over 25 millions) | <ul><li> Media Streaming: Wowza, Nimble, Evostream, Nginx-rtmp.<li> Continuous Integration and Continuous Delivery: Jenkins, Ansible, Gitlab ci/cd.<li> Build Microservices architecture: Docker Swarm, Kubernetes.<li> Has experience with Cloud base systems (AWS / Azure / GCP).<li> Monitor system: Prometheus, netdata, zabbix, Grafana.<li> Log central: ELK, GrayLog.<li> Scripting languages: bash shell, python, Lua.<li> CDN: Nginx, Cloudflare.<li> Storage: Cephfs, Lizardfs, minio.<li> Mail server: Zimbra, ses aws. |
+| Hanh Nguyen | <ul><li>Over 7 years in software development. | <ul><li> Database: MySQL, PostgreSQL, MongoDB.<li> Backend: PHP Node JS, Redis, rabbit MQTT , web service (RESTful APIs/SOAP).<li> Front end: Javascript/Typescript React , Web3, SASS/SCSS. |
+
+#### 2.2.3 Team Code Repos
+
+| **Platform** | **<p align="center">ID** |
+| --- | --- |
+| Github | https://github.com/vebank |
+
+#### 2.2.4 Team LinkedIn Profiles
+
+| **Name** | **Linked in Profile** |
+| --- | --- |
+| Mr. Truong Phan | https://www.linkedin.com/in/buckphan/ |
+| Mr. Tram Vo | https://www.linkedin.com/in/tram-vo-a72309199/ |
+| Mr. Phat Nguyen | https://www.linkedin.com/in/phat-nguyen-kim-715481233/ |
+| Mr. Hanh Nguyen | https://www.linkedin.com/in/hanh-nguyen-21839923a/ |
+
+##
 
 
 **2. Team** 
