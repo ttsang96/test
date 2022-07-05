@@ -132,7 +132,7 @@ borrowing will initially support VET, VeTHO, VeUSD and $VB and expand
 to other big-cap assets in the future.
 
 
-<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988808.54421_76535002-9414-4bc2-a1a0-51d439d56d63.png" width="700" height="350">
+<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988808.54421_76535002-9414-4bc2-a1a0-51d439d56d63.png" width="660" height="340">
 
 
 For reference:
