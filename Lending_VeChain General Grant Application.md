@@ -231,20 +231,14 @@ stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
 
 3.2. Overview
 
-<pre> 
-+-----------------------+----------------------+----------------------+----------------------+-------------+
-|                       | Milestone 1          | Milestone 2          | Milestone 3          |   Total     |
-+=======================+======================+======================+======================+=============+
-| Estimated Duration    | 4 months             | 2 months             | 2 months             | 8 months     |
-+-----------------------+----------------------+----------------------+----------------------+-------------+
-| Full-time equivalent  | 9 developers         | 9 developers         | 9 developers         |             |
-|  (FTE)                |                      |                      |                      |             |
-+-----------------------+----------------------+----------------------+----------------------+-------------+
-| Cost                  | $80,000 development  | $40,000 development  | $40,000 development  | $190,000    |
-|                       |  cost                |  cost                | cost                 |             |
-|                       |                      |                      | $30,000 audit fees   |             |
-+-----------------------+----------------------+----------------------+----------------------+-------------+
-</pre> 
+| | **Milestone 1** | **Milestone 2** | **Milestone 3** | **total** |
+| ---| --- | --- | --- | --- |
+| Estimated Duration | 4 months | 2 months | 2 months | 8 months |
+| Full-time equivalent<br> (FTE) | 9 developers | 9 developers | 9 developers | |             
+| Cost | $80,000 development<br> cost | $40,000 development<br> cost | $40,000 development cost<br> $30,000 audit fees | $190,000 |             
+
+## 
+<br>
 
 
 *3.2.1 Milestone 1 --- Launch on VeChain testnet for the core lending functionalities* 
