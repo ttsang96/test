@@ -137,7 +137,7 @@ borrowing will initially support VET, VeTHO, VeUSD and $VB and expand
 to other big-cap assets in the future.
 
 
-<img alt="Vebank" align="center" src="media/image5.png" width="auto" height="340">
+<img alt="Vebank" align="center" src="media/image5.png" width="100%" height="auto">
 <p></p>
 
 
@@ -152,7 +152,7 @@ For reference:
 **VeThorChain (VeChain)** is a robust layer-1 blockchain with
 Proof-of-Authority consensus mechanism and is elected to the top 40 most
 popular global blockchain. The market capitalization of VeChain is
-recorded at over \$2 billion dollars (at the time this application was
+recorded at over $2 billion dollars (at the time this application was
 first written), notably known for its duo-token system, VET and VTHO.
 With a mission to solve real-world problems on the blockchain, VeChain
 recently became the *UFC's first-ever Official Layer 1 Blockchain
@@ -187,35 +187,34 @@ stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
 
 2.1 Team members
 
-<pre > 
-+---------------+------------------------------------------+ 
-| Team leader:  | Mr. Truong Phan (CEO)                    | 
-+===============+==========================================+ 
-|               |                                          | 
-+---------------+------------------------------------------+ 
-| Team members: | Mr. Tram Vo (CTO)                        | 
-+---------------+------------------------------------------+ 
-|               | Mr. Phat Nguyen (Lead DevOps Engineer)   | 
-+---------------+------------------------------------------+ 
-|               | Mr. Hanh Nguyen (Lead Frontend Engineer) | 
-|               |                                          | 
-|               | -   1 system engineer                    | 
-|               |                                          | 
-|               | -   2 frontend engineers                 | 
-|               |                                          | 
-|               | -   3 blockchain engineers               | 
-|               |                                          | 
-|               | -   3 backend engineers                  | 
-|               |                                          | 
-|               | -   1 tester                             | 
-|               |                                          | 
-|               | -   1 designer                           | 
-+---------------+------------------------------------------+ 
+<pre> 
++---------------+----------------------------------------------------------------------------------------+ 
+| Team leaders  | Mr. Truong Phan (CEO)                                                                  |
+                | Mr. Tram Vo (CTO)                                                                      | 
++===============+========================================================================================+ 
+|               |                                                                                        | 
++---------------+----------------------------------------------------------------------------------------+ 
+| Team members  | Mr. Phat Nguyen (Lead DevOps Engineer)                                                 | 
++---------------+----------------------------------------------------------------------------------------+ 
+|               | Mr. Hanh Nguyen (Lead Frontend Engineer)                                               | 
+|               |                                                                                        | 
+|               | -   1 system engineer                                                                  | 
+|               |                                                                                        | 
+|               | -   2 frontend engineers                                                               | 
+|               |                                                                                        | 
+|               | -   3 blockchain engineers                                                             | 
+|               |                                                                                        | 
+|               | -   3 backend engineers                                                                | 
+|               |                                                                                        | 
+|               | -   1 tester                                                                           | 
+|               |                                                                                        | 
+|               | -   1 designer                                                                         | 
++---------------+----------------------------------------------------------------------------------------+ 
 </pre> 
 
 2.2 Team Website
 
-<pre > 
+<pre> 
 
   Website    https://vebank.io
   ---------- -----------------------------
@@ -229,95 +228,74 @@ stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
 
 <pre> 
 
-+-------------+--------------------------+--------------------------+
-| **Name**    | **Experience**           | **Previous               |
-|             |                          | project/skill**          |
-+=============+==========================+==========================+ 
-| Truong Phan | - Senior Project         | - Stably various         | 
-|             | Manager at Stably,       | stablecoin projects:     | 
-|             | Seattle-based stablecoin | VeUSD on VeChain, USDS   | 
-|             | company.                 | on Harmony, Chia,        | 
-|             |                          | ICON,...                 | 
-|             | - 6 years of experience  |                          | 
-|             | leading product          | - Gohub.vn - tech        | 
-|             | development for          | startup in e-SIM and     | 
-|             | traditional finance and  | telecom services         | 
-|             | blockchain technology.   |                          | 
-+-------------+--------------------------+--------------------------+ 
-| Tram Vo     | - Over 8 years           | - Language: Python,      |
-|             | experience in software   | Java, Solidity,          |
-|             | development              | Javascript, C/C++.       |
-|             |                          | - Database: MongoDB,     |
-|             | - Expert in the          | MySQL, Redis, Firebase.  |
-|             | development of           | - Tech: Docker, Redis,   |
-|             | large-scale systems with | Microservices            |
-|             | over 25 million users    | architecture.            |
-|             | and 2 million CCU        | - Cloud: GCP, AWS.       |
-|             |                          | - OS: Linux, Windows.    |
-|             | - Tech lead from        | - Blockchain: EVM,        |
-|             | requirement analysis,    | Truffle, Remix,          |
-|             | implementation, code     | Ganache.\                |
-|             | review, testing,         | - Management: Agile,     |
-|             | deployment process,      | Jira.                    |
-|             | alert and monitoring     |                          |
-|             | system.                  |                          |
-|             |                          |                          |
-|             | - Lead architect for    |                           |
-|             | other two Web3 projects: |                          |
-|             | RinZ video streaming and |                          |
-|             | Luna Rush GameFi.        |                          |
-+-------------+--------------------------+--------------------------+
-| Phat Nguyen | - 7+ years of            | - Media Streaming:       |
-|             | experience as senior     | Wowza, Nimble,           |
-|             | DevOps Engineer with     | Evostream, Nginx-rtmp.   |
-|             | various server systems,  | - Microservices          |
-|             | especially in video      | architecture: Docker     |
-|             | streaming with 25M+      | Swarm, Kubernetes.       |
-|             | number of users.         | - Cloud systems: AWS,    |
-|             |                          | Azure, GCP.              |
-|             |                          | - Monitor system:        |
-|             |                          | Prometheus, Netdata,     |
-|             |                          | Zabbix, Grafana.         |
-|             |                          | - Log central: ELK,      |
-|             |                          | GrayLog.                 |
-|             |                          | - Scripting languages:   |
-|             |                          | bash shell, python,      |
-|             |                          | Lua.                     |
-|             |                          | - CDN: Nginx,            |
-|             |                          | Cloudflare.              |
-|             |                          | - Storage: Cephfs,       |
-|             |                          | Lizardfs, Minio.         |
-|             |                          | - Mail server: Zimbra,   |
-|             |                          | SES Aws.                 |
-+-------------+--------------------------+--------------------------+
-| Hanh Nguyen | 7+ years in full-stack   | - DB: MySQL,             |
-|             | software development.    | PostgresSQL, MongoDB     |
-|             |                          | - Backend: PHP Node JS,  |
-|             |                          | Redis, rabbit MQTT, web  |
-|             |                          | service (RESTful         |
-|             |                          | APIs/SOAP)               |
-|             |                          | - Frontend:              |
-|             |                          | Javascript/Typescript    |
-|             |                          | React, Web3, SASS/SCSS   |
-+-------------+--------------------------+--------------------------+
++-------------+-----------------------------------------+-------------------------------------------------+
+| Name        |             Experience                  |           Previous project/skill                |
+|             |                                         |                                                 |
++=============+=========================================+=================================================+ 
+| Truong Phan | - Senior Project Manager at Stably,     | - Stably various VeUSD on VeChain, USDS, on     | 
+|             |   stablecoin projects: Seattle-based    |   Harmony, Chia, ICON,...                       |
+|             |   stablecoin company.                   |                                                 | 
+|             | - 6 years of experience leading product | - Gohub.vn - tech startup in e-SIM and          | 
+|             | development for traditional finance and |   telecom services                              | 
+|             | blockchain technology.                  |                                                 | 
++-------------+-----------------------------------------+-------------------------------------------------+ 
+| Tram Vo     | - Over 8 years experience experience in | - Language: Python, Java, Solidity, Javascript  |
+|             |   development software                  |   C/C++.                                        |
+|             |                                         | - Database: MongoDB, MySQL, Redis, Firebase.    |
+|             | - Expert in the development of          |                                                 |
+|             |   large-scale systems with over         | - Tech: Docker, Redis, Microservices            |
+|             |   25 million users and 2 million CCU    |   architecture                                  | 
+|             |                                         | - Cloud: GCP, AWS.                              |
+|             |                                         | - OS: Linux, Windows.                           |
+|             | - Tech lead from requirement analysis,  | - Blockchain: EVM,  Truffle, Remix, Ganache.    |
+|             | implementation, code, review, testing,  | - Management: Agile,Jira.                       |
+|             | deployment process, alert and           |                                                 |
+|             | monitoring system                       |                                                 |
+|             |                                         |                                                 |
+|             | - Lead architect for other two Web3     |                                                 |
+|             |   projects:                             |                                                 |
+|             |   RinZ video streaming and              |                                                 |
+|             |   Luna Rush GameFi.                     |                                                 |
++-------------+-----------------------------------------+-------------------------------------------------+
+| Phat Nguyen | - 7+ years of experience as senior      | - Media Streaming: Wowza, Nimble, Evostream,    |
+|             |   DevOps Engineer with various server   |   Nginx-rtmp.                                   |
+|             |   systems, especially in video streaming| - Microservices architecture: Docker, Swarm     |
+|             |   with 25M+ number of users.            |   Kubernetes.                                   |
+|             |                                         | - Cloud systems: AWS, Azure, GCP.               |
+|             |                                         | - Monitor system: Prometheus, Netdata, Zabbix   |
+|             |                                         |   Grafana                                       |
+|             |                                         | - Log central: ELK, GrayLog.                    |
+|             |                                         | - Scripting languages: bash shell, python, Lua. |
+|             |                                         | - CDN: Nginx, Cloudflare.                       |
+|             |                                         | - Storage: Cephfs, Lizardfs, Minio.             |
+|             |                                         | - Mail server: Zimbra,  SES Aws.                |
++-------------+-----------------------------------------+-------------------------------------------------+
+| Hanh Nguyen | - 7+ years in full-stack software       | - DB: MySQL, PostgresSQL, MongoDB               |
+|             |   development.                          | - Backend: PHP Node JS, Redis, rabbit MQTT, web |
+|             |                                         |   service (RESTful APIs/SOAP)                   |
+|             |                                         | - Frontend: Javascript/Typescript React, Web3,  |
+|             |                                         |   SASS/SCSS                                     |
++-------------+-----------------------------------------+-------------------------------------------------+
 </pre> 
 
 
 2.4 Team Code Repos
 
-  **Platform**   **ID**
+  Platform       ID
   -------------- ---------------------------
   Github         https://github.com/vebank
 
 2.5 Team LinkedIn Profiles
 <pre> 
 
-  **Name**          **Linked in Profile**
+  Name              Linked in Profile
   ----------------- --------------------------------------------------------
   Mr. Truong Phan   https://www.linkedin.com/in/buckphan/ 
   Mr. Tram Vo       https://www.linkedin.com/in/tram-vo-a72309199/ 
   Mr. Phat Nguyen   https://www.linkedin.com/in/phat-nguyen-kim-715481233/ 
   Mr. Hanh Nguyen   https://www.linkedin.com/in/hanh-nguyen-21839923a/
+  ----------------- --------------------------------------------------------
+
 </pre> 
 
 **3. Development Roadmap**
@@ -327,28 +305,23 @@ stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
 
 <img alt="Vebank" align="center" src="media/image6.png"  width="100%" height="75%" >
 
+<p></p>
 
 3.2. Overview
 
 <pre> 
-
-+-------------+-------------+-------------+-------------+-------------+
-|             | Milestone 1 | Milestone 2 | Milestone 3 | **Total**   |
-+=============+=============+=============+=============+=============+
-| Estimated   | 4 months    | 2 months    | 2 months    | **8 month** |
-| Duration    |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Full-time   | 9           | 9           | 9           |             |
-| equivalent  | developers  | developers  | developers  |             |
-| (FTE)       |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Cost        | $80,000     | $40,000     | $40,000     | **          |
-|             | development | development | development | $190,000**  |
-|             |             |             | cost        |             |
-|             | cost        | cost        |             |             |
-|             |             |             | $30,000    |              |
-|             |             |             | audit fees  |             |
-+-------------+-------------+-------------+-------------+-------------+
++-----------------------+----------------------+----------------------+----------------------+-------------+
+|                       | Milestone 1          | Milestone 2          | Milestone 3          |   Total     |
++=======================+======================+======================+======================+=============+
+| Estimated Duration    | 4 months             | 2 months             | 2 months             | 8 month     |
++-----------------------+----------------------+----------------------+----------------------+-------------+
+| Full-time equivalent  | 9 developers         | 9 developers         | 9 developers         |             |
+|  (FTE)                |                      |                      |                      |             |
++-----------------------+----------------------+----------------------+----------------------+-------------+
+| Cost                  | $80,000 development  | $40,000 development  | $40,000 development  | $190,000    |
+|                       |  cost                |  cost                | cost                 |             |
+|                       |                      |                      | $30,000 audit fees   |             |
++-----------------------+----------------------+----------------------+----------------------+-------------+
 </pre> 
 
 
