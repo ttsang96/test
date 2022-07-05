@@ -107,9 +107,8 @@ of users: liquidity providers, borrowers, traders, and developers.
 
 -   0.05% - Sent to $VB token farm
 
-
-<img alt="Vebank" align="center" src="media/image2.png"  width="100%" height="75%" >
-<p></p>
+    <img alt="Vebank" align="center" src="media/image2.png"  width="100%" height="100%" >
+    <p></p>
 
 
 -   Borrowers are subject to risk evaluation of the asset loan,
@@ -119,9 +118,8 @@ of users: liquidity providers, borrowers, traders, and developers.
     trigger when predetermined liquidation thresholds are met. The
     table below shows a summary of the latest values:
 
-
-<img alt="Vebank" align="center"  src="media/image1.png"  width="100%" height="75%" >
-<p></p>
+  <img alt="Vebank" align="center"  src="media/image1.png"  width="100%" height="100%" >
+  <p></p>
 
 
 -   The protocol also incentivizes users to acquire liquidated assets at discount and with token incentives.
