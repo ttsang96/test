@@ -186,9 +186,9 @@ stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
 ### 2.1 Team members
 |||
 | --- | --- |
-| Team leaders: | Mr. Truong Phan (CEO) |
+| Team leaders | Mr. Truong Phan (CEO) |
 || Mr. Tram Vo (CTO) |
-| Team members: | Mr. Phat Nguyen (DevOps Team Lead) |
+| Team members | Mr. Phat Nguyen (DevOps Team Lead) |
 || Mr. Hanh Nguyen (Frontend Team Lead)|
 ||+ 1 system engineer<br>+ 2 frontend engineers<br>+ 3 blockchain engineers<br>+ 3 backend engineers<br>+ 1 tester<br>+ 1 designer|
 
