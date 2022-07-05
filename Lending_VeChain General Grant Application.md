@@ -61,8 +61,9 @@ tracked pro-rata to the LP shares in the total reserves and can be
 redeemed for the underlying assets at any time.
 
 
-<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656989163.786813_2af6184d-79c4-4106-9010-5c594d7c0ac6.png" width="700" height="350">
 
+<img alt="Vebank" align="center" src="https://images.rinz.io/rinz/nft/2022/07/05/1656989163.786813_2af6184d-79c4-4106-9010-5c594d7c0ac6.png" width="700" height="350">
+<p></p>
 
 Pairs act as automated market makers, standing ready to accept one token
 for the other as long as the "constant product" formula is preserved.
@@ -74,7 +75,8 @@ property that larger trades (relative to reserves) execute at
 exponentially worse rates than smaller ones.
 
 
-<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988845.353522_7cd96ee4-744b-46d0-97e7-11f1a579267f.png" width="700" height="350">
+<img alt="Vebank" align="center" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988845.353522_7cd96ee4-744b-46d0-97e7-11f1a579267f.png" width="700" height="350">
+<p></p>
 
 
 Because the relative price of the two-pair assets can only be changed
@@ -83,7 +85,8 @@ prices create arbitrage opportunities. This mechanism ensures that
 VeBank prices always trend toward the market-clearing price.
 
 
-<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656989834.584935_f0fbdd75-6403-4a71-ac48-cae4e2458bd9.png" width="700" height="350">
+<img alt="Vebank" align="center" src="https://images.rinz.io/rinz/nft/2022/07/05/1656989834.584935_f0fbdd75-6403-4a71-ac48-cae4e2458bd9.png" width="700" height="350">
+<p></p>
 
 
 b.  How users interact with the protocol
@@ -105,7 +108,8 @@ of users: liquidity providers, borrowers, traders, and developers.
 -   0.05% - Sent to $VB token farm
 
 
-<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656989124.847522_d6b8ca68-18bf-46a6-ab17-998841486275.png" width="700" height="350">
+<img alt="Vebank" align="center" src="https://images.rinz.io/rinz/nft/2022/07/05/1656989124.847522_d6b8ca68-18bf-46a6-ab17-998841486275.png" width="700" height="350">
+<p></p>
 
 
 -   Borrowers are subject to risk evaluation of the asset loan,
@@ -116,7 +120,8 @@ of users: liquidity providers, borrowers, traders, and developers.
     table below shows a summary of the latest values:
 
 
-<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656989070.863715_460c75f6-de8b-4d1b-86bb-8b321dca2698.png" width="700" height="350">
+<img alt="Vebank" align="center"  src="https://images.rinz.io/rinz/nft/2022/07/05/1656989070.863715_460c75f6-de8b-4d1b-86bb-8b321dca2698.png" width="700" height="350">
+<p></p>
 
 
 -   The protocol also incentivizes users to acquire liquidated assets at discount and with token incentives.
@@ -132,7 +137,8 @@ borrowing will initially support VET, VeTHO, VeUSD and $VB and expand
 to other big-cap assets in the future.
 
 
-<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988808.54421_76535002-9414-4bc2-a1a0-51d439d56d63.png" width="660" height="340">
+<img alt="Vebank" align="center" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988808.54421_76535002-9414-4bc2-a1a0-51d439d56d63.png" width="660" height="340">
+<p></p>
 
 
 For reference:
@@ -319,7 +325,7 @@ stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
 3.1 Roadmap
 
 
-<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988721.170695_ecee74b6-db72-48fb-9a25-16c1137e2cdc.png" width="700" height="350">
+<img alt="Vebank" align="center" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988721.170695_ecee74b6-db72-48fb-9a25-16c1137e2cdc.png" width="700" height="350">
 
 
 3.2. Overview
