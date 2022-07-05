@@ -194,10 +194,10 @@ stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
 +===============+========================================================================================+ 
 |               |                                                                                        | 
 +---------------+----------------------------------------------------------------------------------------+ 
-| Team members  | Mr. Phat Nguyen (Lead DevOps Engineer)                                                 | 
+| Team members  | Mr. Phat Nguyen (DevOps Team Lead)                                                     | 
 +---------------+----------------------------------------------------------------------------------------+ 
-|               | Mr. Hanh Nguyen (Lead Frontend Engineer)                                               | 
-|               |                                                                                        | 
+|               | Mr. Hanh Nguyen (Frontend Team Lead)                                                   | 
++---------------+----------------------------------------------------------------------------------------+ 
 |               | -   1 system engineer                                                                  | 
 |               |                                                                                        | 
 |               | -   2 frontend engineers                                                               | 
