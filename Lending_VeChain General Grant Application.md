@@ -62,7 +62,7 @@ redeemed for the underlying assets at any time.
 
 
 
-<img alt="Vebank" align="center" src="https://images.rinz.io/rinz/nft/2022/07/05/1656989163.786813_2af6184d-79c4-4106-9010-5c594d7c0ac6.png" width="700" height="350">
+<img alt="Vebank" align="center" src="media/image3.png" width="100%" height="75%" >
 <p></p>
 
 Pairs act as automated market makers, standing ready to accept one token
@@ -75,7 +75,7 @@ property that larger trades (relative to reserves) execute at
 exponentially worse rates than smaller ones.
 
 
-<img alt="Vebank" align="center" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988845.353522_7cd96ee4-744b-46d0-97e7-11f1a579267f.png" width="700" height="350">
+<img alt="Vebank" align="center" src="media/image4.png"  width="100%" height="75%"  >
 <p></p>
 
 
@@ -85,7 +85,7 @@ prices create arbitrage opportunities. This mechanism ensures that
 VeBank prices always trend toward the market-clearing price.
 
 
-<img alt="Vebank" align="center" src="https://images.rinz.io/rinz/nft/2022/07/05/1656989834.584935_f0fbdd75-6403-4a71-ac48-cae4e2458bd9.png" width="700" height="350">
+<img alt="Vebank" align="center" src="media/image7.png"   width="100%" height="75%" >
 <p></p>
 
 
@@ -108,7 +108,7 @@ of users: liquidity providers, borrowers, traders, and developers.
 -   0.05% - Sent to $VB token farm
 
 
-<img alt="Vebank" align="center" src="https://images.rinz.io/rinz/nft/2022/07/05/1656989124.847522_d6b8ca68-18bf-46a6-ab17-998841486275.png" width="700" height="350">
+<img alt="Vebank" align="center" src="media/image2.png"  width="100%" height="75%" >
 <p></p>
 
 
@@ -120,7 +120,7 @@ of users: liquidity providers, borrowers, traders, and developers.
     table below shows a summary of the latest values:
 
 
-<img alt="Vebank" align="center"  src="https://images.rinz.io/rinz/nft/2022/07/05/1656989070.863715_460c75f6-de8b-4d1b-86bb-8b321dca2698.png" width="700" height="350">
+<img alt="Vebank" align="center"  src="media/image1.png"  width="100%" height="75%" >
 <p></p>
 
 
@@ -137,7 +137,7 @@ borrowing will initially support VET, VeTHO, VeUSD and $VB and expand
 to other big-cap assets in the future.
 
 
-<img alt="Vebank" align="center" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988808.54421_76535002-9414-4bc2-a1a0-51d439d56d63.png" width="auto" height="340">
+<img alt="Vebank" align="center" src="media/image5.png" width="auto" height="340">
 <p></p>
 
 
@@ -325,7 +325,7 @@ stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
 3.1 Roadmap
 
 
-<img alt="Vebank" align="center" src="https://images.rinz.io/rinz/nft/2022/07/05/1657005078.495234_2e253a27-005c-47b9-b986-193871f5fd19.png" width="auto" height="350">
+<img alt="Vebank" align="center" src="media/image6.png"  width="100%" height="75%" >
 
 
 3.2. Overview
