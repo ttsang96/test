@@ -61,7 +61,7 @@ tracked pro-rata to the LP shares in the total reserves and can be
 redeemed for the underlying assets at any time.
 
 
-<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656989163.786813_2af6184d-79c4-4106-9010-5c594d7c0ac6.png" width="800" height="400">
+<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656989163.786813_2af6184d-79c4-4106-9010-5c594d7c0ac6.png" width="1000" height="600">
 
 
 Pairs act as automated market makers, standing ready to accept one token
@@ -74,7 +74,7 @@ property that larger trades (relative to reserves) execute at
 exponentially worse rates than smaller ones.
 
 
-<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988845.353522_7cd96ee4-744b-46d0-97e7-11f1a579267f.png" width="800" height="400">
+<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988845.353522_7cd96ee4-744b-46d0-97e7-11f1a579267f.png" width="1000" height="600">
 
 
 Because the relative price of the two-pair assets can only be changed
@@ -83,7 +83,7 @@ prices create arbitrage opportunities. This mechanism ensures that
 VeBank prices always trend toward the market-clearing price.
 
 
-<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656989834.584935_f0fbdd75-6403-4a71-ac48-cae4e2458bd9.png" width="800" height="400">
+<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656989834.584935_f0fbdd75-6403-4a71-ac48-cae4e2458bd9.png" width="1000" height="600">
 
 
 b.  How users interact with the protocol
@@ -105,7 +105,7 @@ of users: liquidity providers, borrowers, traders, and developers.
 -   0.05% - Sent to $VB token farm
 
 
-<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656989124.847522_d6b8ca68-18bf-46a6-ab17-998841486275.png" width="800" height="400">
+<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656989124.847522_d6b8ca68-18bf-46a6-ab17-998841486275.png" width="1000" height="600">
 
 
 -   Borrowers are subject to risk evaluation of the asset loan,
@@ -116,7 +116,7 @@ of users: liquidity providers, borrowers, traders, and developers.
     table below shows a summary of the latest values:
 
 
-<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656989070.863715_460c75f6-de8b-4d1b-86bb-8b321dca2698.png" width="800" height="400">
+<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656989070.863715_460c75f6-de8b-4d1b-86bb-8b321dca2698.png" width="1000" height="600">
 
 
 -   The protocol also incentivizes users to acquire liquidated assets at discount and with token incentives.
@@ -132,7 +132,7 @@ borrowing will initially support VET, VeTHO, VeUSD and $VB and expand
 to other big-cap assets in the future.
 
 
-<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988808.54421_76535002-9414-4bc2-a1a0-51d439d56d63.png" width="800" height="400">
+<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988808.54421_76535002-9414-4bc2-a1a0-51d439d56d63.png" width="1000" height="600">
 
 
 For reference:
@@ -308,28 +308,28 @@ stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
 3.1 Roadmap
 
 
-<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988721.170695_ecee74b6-db72-48fb-9a25-16c1137e2cdc.png" width="800" height="400">
+<img alt="Vebank" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988721.170695_ecee74b6-db72-48fb-9a25-16c1137e2cdc.png" width="1000" height="600">
 
 
 3.2. Overview
 
-+-------------+-------------+-------------+-------------+-------------+
-|             | Milestone 1 | Milestone 2 | Milestone 3 | **Total**   |
-+=============+=============+=============+=============+=============+
-| Estimated   | 4 months    | 2 months    | 2 months    | **8 month** |
-| Duration    |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Full-time   | 9           | 9           | 9           |             |
-| equivalent  | developers  | developers  | developers  |             |
-| (FTE)       |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Cost        | $80,000     | $40,000     | $40,000     | **          |
-|             | development | development | development | $190,000** |
-|             |             |             | cost        |             |
-|             | cost        | cost        |             |             |
-|             |             |             | $30,000    |             |
-|             |             |             | audit fees  |             |
-+-------------+-------------+-------------+-------------+-------------+
++-------------+-------------+-------------+-------------+-------------+ <br />
+|             | Milestone 1 | Milestone 2 | Milestone 3 | **Total**   | <br />
++=============+=============+=============+=============+=============+ <br />
+| Estimated   | 4 months    | 2 months    | 2 months    | **8 month** | <br />
+| Duration    |             |             |             |             | <br />
++-------------+-------------+-------------+-------------+-------------+ <br />
+| Full-time   | 9           | 9           | 9           |             | <br />
+| equivalent  | developers  | developers  | developers  |             | <br />
+| (FTE)       |             |             |             |             | <br />
++-------------+-------------+-------------+-------------+-------------+ <br />
+| Cost        | $80,000     | $40,000     | $40,000     | **          | <br />
+|             | development | development | development | $190,000**  | <br />
+|             |             |             | cost        |             | <br />
+|             | cost        | cost        |             |             | <br />
+|             |             |             | $30,000    |              | <br />
+|             |             |             | audit fees  |             | <br />
++-------------+-------------+-------------+-------------+-------------+ <br />
 
 
 *3.2.1 Milestone 1 --- Launch on VeChain testnet for the core lending functionalities* 
