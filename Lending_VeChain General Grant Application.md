@@ -190,7 +190,7 @@ stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
 || Mr. Tram Vo (CTO) |
 | Team members: | Mr. Phat Nguyen (DevOps Team Lead) |
 || Mr. Hanh Nguyen (Frontend Team Lead)|
-||+ 1 system engineer<br>+ 1 blockchain engineer<br>+ 1 backend engineer<br> + 1 designer<br>|
+||+ 1 system engineer<br>+ 2 frontend engineers<br>+ 3 blockchain engineers<br>+ 3 backend engineers<br>+ 1 tester<br>+ 1 designer|
 
 ### 2.2 Team Website
 
@@ -235,7 +235,7 @@ stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
 +-----------------------+----------------------+----------------------+----------------------+-------------+
 |                       | Milestone 1          | Milestone 2          | Milestone 3          |   Total     |
 +=======================+======================+======================+======================+=============+
-| Estimated Duration    | 4 months             | 2 months             | 2 months             | 8 month     |
+| Estimated Duration    | 4 months             | 2 months             | 2 months             | 8 months     |
 +-----------------------+----------------------+----------------------+----------------------+-------------+
 | Full-time equivalent  | 9 developers         | 9 developers         | 9 developers         |             |
 |  (FTE)                |                      |                      |                      |             |
