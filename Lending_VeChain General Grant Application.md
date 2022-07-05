@@ -137,7 +137,7 @@ borrowing will initially support VET, VeTHO, VeUSD and $VB and expand
 to other big-cap assets in the future.
 
 
-<img alt="Vebank" align="center" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988808.54421_76535002-9414-4bc2-a1a0-51d439d56d63.png" width="660" height="340">
+<img alt="Vebank" align="center" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988808.54421_76535002-9414-4bc2-a1a0-51d439d56d63.png" width="auto" height="340">
 <p></p>
 
 
@@ -325,7 +325,7 @@ stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
 3.1 Roadmap
 
 
-<img alt="Vebank" align="center" src="https://images.rinz.io/rinz/nft/2022/07/05/1656988721.170695_ecee74b6-db72-48fb-9a25-16c1137e2cdc.png" width="700" height="350">
+<img alt="Vebank" align="center" src="https://images.rinz.io/rinz/nft/2022/07/05/1657005078.495234_2e253a27-005c-47b9-b986-193871f5fd19.png" width="auto" height="350">
 
 
 3.2. Overview
