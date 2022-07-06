@@ -1,4 +1,4 @@
-**VeChain General Grant Application**
+# VeChain General Grant Application
 
 **1. Project Overview** 
 
@@ -64,7 +64,7 @@ redeemed for the underlying assets at any time.
 
 
 
-<img alt="Vebank" align="center" src="media/image3.png" width="100%" height="75%" >
+<img alt="Vebank" align="center" src="https://github.com/ttsang96/test/blob/main/media/image3.png?raw=true" width="100%" height="75%" >
 <p></p>
 
 Pairs act as automated market makers, standing ready to accept one token
@@ -77,7 +77,7 @@ property that larger trades (relative to reserves) execute at
 exponentially worse rates than smaller ones.
 
 
-<img alt="Vebank" align="center" src="media/image4.png"  width="100%" height="75%"  >
+<img alt="Vebank" align="center" src="https://github.com/ttsang96/test/blob/main/media/image4.png?raw=true"  width="100%" height="75%"  >
 <p></p>
 
 
@@ -87,7 +87,7 @@ prices create arbitrage opportunities. This mechanism ensures that
 VeBank prices always trend toward the market-clearing price.
 
 
-<img alt="Vebank" align="center" src="media/image7.png"   width="100%" height="75%" >
+<img alt="Vebank" align="center" src="https://github.com/ttsang96/test/blob/main/media/image7.png?raw=true"   width="100%" height="75%" >
 <p></p>
 
 
@@ -109,7 +109,7 @@ of users: liquidity providers, borrowers, traders, and developers.
 
 -   0.05% - Sent to $VB token farm
 
-    <img alt="Vebank" align="center" src="media/image2.png"  width="100%" height="100%" >
+    <img alt="Vebank" align="center" src="https://github.com/ttsang96/test/blob/main/media/image2.png?raw=true"  width="100%" height="100%" >
     <p></p>
 
 
@@ -120,7 +120,7 @@ of users: liquidity providers, borrowers, traders, and developers.
     trigger when predetermined liquidation thresholds are met. The
     table below shows a summary of the latest values:
 
-  <img alt="Vebank" align="center"  src="media/image1.png"  width="100%" height="100%" >
+  <img alt="Vebank" align="center"  src="https://github.com/ttsang96/test/blob/main/media/image1.png?raw=true"  width="100%" height="100%" >
   <p></p>
 
 
@@ -137,7 +137,7 @@ borrowing will initially support VET, VeTHO, VeUSD and $VB and expand
 to other big-cap assets in the future.
 
 
-<img alt="Vebank" align="center" src="media/image5.png" width="100%" height="auto">
+<img alt="Vebank" align="center" src="https://github.com/ttsang96/test/blob/main/media/image5.png?raw=true" width="100%" height="auto">
 <p></p>
 
 
@@ -225,7 +225,7 @@ stableswaps, NFT airdrops and NFT staking to boost lending/farming APY%.
 3.1 Roadmap
 
 
-<img alt="Vebank" align="center" src="media/image6.png"  width="100%" height="75%" >
+<img alt="Vebank" align="center" src="https://github.com/ttsang96/test/blob/main/media/image6.png?raw=true"  width="100%" height="75%" >
 
 <p></p>
 
