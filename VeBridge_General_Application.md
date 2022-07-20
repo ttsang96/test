@@ -94,13 +94,13 @@ In the future, our goal is to further enrich the ecosystem with more essential D
 
 ## 3 Development Roadmap
 
-### 3.1 Example Roadmap for a dApp Application
+### 3.1 Roadmap for a dApp Application
 
-- August 2022
+- September 2022
 
     - Deploy VeBridge v1.0 contracts on VeChain, Ethereum, BSC testnet.
     - Supports bridge ETH, BNB from Ethereum, BSC to VeChain.
-- September 2022
+- November 2022
 
     - Launch VeBridge v1.0 on mainnet.
 
