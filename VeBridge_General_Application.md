@@ -16,7 +16,7 @@
 
 ### 1.1 Overview
 
-**[VeBridge v1.0](https://vebridge-stag.vebank.io/home)** is our first implementation of generic message passing protocol that connects to multiple chains between VeChain and Ethereum, Solana, Terra, Binance Smart Chain, Polygon, Avalanche, Oasis, Fantom, Karura, Celo and Aurora.
+**[VeBridge v1.0](https://vebridge-stag.vebank.io/home)** is our first implementation of generic message passing protocol that connects to multiple chains between VeChain with Ethereum, Solana, Terra, Binance Smart Chain, Polygon, Avalanche, Oasis, Fantom, Karura, Celo and Aurora.
 
 <img alt="Vebridge" align="center" src="https://github.com/ttsang96/test/blob/main/media/VBr.png?raw=true" >
 
