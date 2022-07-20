@@ -44,8 +44,8 @@ These VPA's are ultimately what a smart contract on a receiving chain must proce
 
 In the future, our goal is to further enrich the ecosystem with more essential DeFi products, becoming the primary access point for data into the VeChain ecosystem. Further developments will involve:
 
-(i) Cross chain exchange.
-(ii) Cross chain governance app.
+(i) Cross chain exchange. <br>
+(ii) Cross chain governance app.<br>
 (iii) Cross chain game.
 
 ## 2. Team
