@@ -20,7 +20,7 @@
 
 <img alt="Vebridge" align="center" src="https://github.com/ttsang96/test/blob/main/media/VBr.png?raw=true" >
 
-Our key emphasis is bring assets from BSC and Ethereum to VeChain, secured by multi-nodes system and "Watch dogs" as 2nd layer of security - ran independently by the VeBank community
+Our key emphasis is bring assets from BSC and Ethereum to VeChain, secured by multi-nodes system and "Watch dogs" as 2nd layer of security - run transparency with community
 
 ### 1.2 Project Details
 
