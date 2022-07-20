@@ -53,10 +53,11 @@ In the future, our goal is to further enrich the ecosystem with more essential D
 ### 2.1 Team members
 |||
 | --- | --- |
-| Team leaders: | Mr. Truong Phan (CEO) |
+| Team leaders: | Mr. Thong Nguyen (CEO) |
 || Mr. Tram Vo (CTO) |
 | Team members: | Mr. Phat Nguyen (DevOps Team Lead) |
 || Mr. Hanh Nguyen (Frontend Team Lead)|
+|| Mr. Truong Phan (Head Of BlockChain)|
 ||+ 1 system engineer<br>+ 1 blockchain engineer<br>+ 1 backend engineer<br> + 1 designer<br>|
 
 ### 2.2 Team Website
@@ -65,7 +66,7 @@ In the future, our goal is to further enrich the ecosystem with more essential D
 
 | Name | <p align="center">Experience<p> | <p align="center">Previous project/skill<p> |
 | --- | --- | --- |
-| Truong Phan | <ul><li>Senior Project Manager at Stably, Seattle-based stablecoin company.<li>6 years of experience leading product development for traditional finance and blockchain technology. | <ul><li>Stably various stablecoin projects: VeUSD on VeChain, USDS on Harmony, Chia, ICON,...<li> Gohub.vn - tech startup in e-SIM and telecom services |
+| Thong Nguyen | <ul><li>16 years of experience as a financial analyst.<li>Over 3 years of blockchain market research.<li>6 years of experience as a banking manager. |
 | Tram Vo | <ul><li> Over 8-year experience in Software development<li> Deep experience in software development for large-scale systems, with over 25 million users and 2 million CCU at the 2018 AFC U-23 Championship.<li> Profound understanding of many subjects in software development such as requirement analysis, implementation, code review, testing, deployment process, alert and monitoring system.<li>Technical leader for 2 blockchain projects | <ul><li> Language: Python, Java, Solidity, Javascript, C/C++.<li> Database: MongoDB, MySQL, Redis, Firebase.<li> Tech: Docker, Redis, Micro-services architecture.<li> Cloud: GCP, AWS.<li> OS: Linux, Windows.<li> Blockchain: EVM, Truffle, Remix, Ganache.<li> Management: Agile, Jira. |
 | Phat Nguyen | <ul><li> 7+ years of experience as a Senior DevOps Engineer with different server systems, especially streaming systems.<li> Experience in handling a large number of users (over 25 millions) | <ul><li> Media Streaming: Wowza, Nimble, Evostream, Nginx-rtmp.<li> Continuous Integration and Continuous Delivery: Jenkins, Ansible, Gitlab ci/cd.<li> Build Microservices architecture: Docker Swarm, Kubernetes.<li> Has experience with Cloud base systems (AWS / Azure / GCP).<li> Monitor system: Prometheus, netdata, zabbix, Grafana.<li> Log central: ELK, GrayLog.<li> Scripting languages: bash shell, python, Lua.<li> CDN: Nginx, Cloudflare.<li> Storage: Cephfs, Lizardfs, minio.<li> Mail server: Zimbra, ses aws. |
 | Hanh Nguyen | <ul><li>Over 7 years in software development. | <ul><li> Database: MySQL, PostgreSQL, MongoDB.<li> Backend: PHP Node JS, Redis, rabbit MQTT , web service (RESTful APIs/SOAP).<li> Front end: Javascript/Typescript React , Web3, SASS/SCSS. |
@@ -80,10 +81,12 @@ In the future, our goal is to further enrich the ecosystem with more essential D
 
 | **Name** | **Linked in Profile** |
 | --- | --- |
-| Mr. Truong Phan | https://www.linkedin.com/in/buckphan/ |
+| Mr. Thong Nguyen | https://www.linkedin.com/in/buckphan/ |
 | Mr. Tram Vo | https://www.linkedin.com/in/tram-vo-a72309199/ |
 | Mr. Phat Nguyen | https://www.linkedin.com/in/phat-nguyen-kim-715481233/ |
 | Mr. Hanh Nguyen | https://www.linkedin.com/in/hanh-nguyen-21839923a/ |
+| Mr. Truong Phan | https://www.linkedin.com/in/buckphan/ |
+
 
 ##
 
@@ -95,7 +98,7 @@ In the future, our goal is to further enrich the ecosystem with more essential D
 - August 2022
 
     - Deploy VeBridge v1.0 contracts on VeChain, Ethereum, BSC testnet.
-    - Supports bridge ETH, BNB from Ethereum, BSC to VeChain
+    - Supports bridge ETH, BNB from Ethereum, BSC to VeChain.
 - September 2022
 
     - Launch VeBridge v1.0 on mainnet.
@@ -106,7 +109,7 @@ In the future, our goal is to further enrich the ecosystem with more essential D
 | --- | --- | --- | --- |
 | Estimated Duration | 2 month | 1 month | 3 months |
 | Full-time equivalent (FTE) | 3 full-time engineers| 3 full-time engineers||
-| Cost (up to $ 30,000) | Development cost: $10,000<br>(Backend: $3,000<br>Frontend: $1,000<br>Smart contracts: $3,000)| Development cost: $10,000<br>(Backend: $2,000<br>Frontend: $1,000<br>Smart contracts: $2,000<br>Server: $6,000 for 12 months)<br>Gas fee to keep the guardian running:$10,000 in $VTHO | $30,000 |
+| Cost (up to $ 30,000) | Development cost: $10,000<br>(Backend: $3,000<br>Frontend: $1,000<br>Smart contracts: $3,000)| Development cost: $10,000<br>(Backend: $2,000<br>Frontend: $1,000<br>Smart contracts: $2,000<br>Server: $6,000 for 12 months)<br>Gas fee to keep the guardian running:$10,000 | $30,000 |
 
 #### 3.2.1 Milestone 1 — Deploy VeBridge v1.0 on testnet
  
@@ -115,7 +118,7 @@ In the future, our goal is to further enrich the ecosystem with more essential D
 
 #### 3.2.2 Milestone 2 — Deploy VeBridge v1.0 on mainnet
 
-- Deploy smart contract to VeChan, Ethereum, BSC on mainnet.
+- Deploy smart contracts to VeChan, Ethereum, BSC on mainnet.
 - Deploy official VeBridge website.
 
 ##
