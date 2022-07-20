@@ -114,12 +114,12 @@ In the future, our goal is to further enrich the ecosystem with more essential D
 
 #### 3.2.1 Milestone 1 — Deploy VeBridge v1.0 on testnet
  
-- Smart contracts for VeChan, Ethereum, BSC on testnet.
+- Smart contracts for veChain, Ethereum, BSC on testnet.
 - Website testnet on https://vebridge-stag.vebank.io/home.
 
 #### 3.2.2 Milestone 2 — Deploy VeBridge v1.0 on mainnet
 
-- Deploy smart contracts to VeChan, Ethereum, BSC on mainnet.
+- Deploy smart contracts to veChain, Ethereum, BSC on mainnet.
 - Deploy official VeBridge website.
 
 ##
