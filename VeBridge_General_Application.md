@@ -33,10 +33,10 @@ Our key emphasis is bring assets from BSC and Ethereum to VeChain, secured by mu
 
 1. Contract with functions for bring assets from top chains to VeChain
 
-2. Guardian is the role to observe messages and sign the corresponding payloads. Each guardian performs this step in isolation, later combining the resulting signatures with other guardians as a final step. The resulting collection of independent observations form a multisig which represents a proof that a state has been observed and agreed upon by a majority of the wormhole network. These multisigs are referred to as VPA's in VeBridge.
+2. Guardian is the role to observe messages and sign the corresponding payloads. Each guardian performs this step in isolation, later combining the resulting signatures with other guardians as a final step. The resulting collection of independent observations form a multisig which represents a proof that a state has been observed and agreed upon by a majority of the VeBridge network. These multisigs are referred to as VPA's in VeBridge.
 
 3. VPA (Verified Proof Approval) is Messages emitted by contracts need to be verified by the guardians before they can be sent to the target chain. Once a majority of guardians reach consensus that an observation has been made, the message is wrapped up in a structure called a VPA which combines the message with the guardian signatures to form a proof.
-These VPA's are ultimately what a smart contract on a receiving chain must process in order to receive a wormhole message.
+These VPA's are ultimately what a smart contract on a receiving chain must process in order to receive a VeBridge message.
 
 ### 1.3 Ecosystem Fit
 
