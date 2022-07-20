@@ -82,7 +82,7 @@ In the future, our goal is to further enrich the ecosystem with more essential D
 
 | **Name** | **Linked in Profile** |
 | --- | --- |
-| Mr. Thong Nguyen | https://www.linkedin.com/in/buckphan/ |
+| Mr. Thong Nguyen | https://www.linkedin.com/mwlite/in/thong-nguyen-92223734 |
 | Mr. Tram Vo | https://www.linkedin.com/in/tram-vo-a72309199/ |
 | Mr. Phat Nguyen | https://www.linkedin.com/in/phat-nguyen-kim-715481233/ |
 | Mr. Hanh Nguyen | https://www.linkedin.com/in/hanh-nguyen-21839923a/ |
@@ -133,7 +133,7 @@ In the future, our goal is to further enrich the ecosystem with more essential D
 
 What we have already accomplished:
 
-- Smart contracts VeChan, Ethereum, BSC on testnet.
+- Smart contracts VeChain, Ethereum, BSC on testnet.
 - Deploy beta website for VeBridge: [https://vebridge-stag.vebank.io/home](https://vebridge-stag.vebank.io/home).
 - Run stress-test to test bridge stability with 100% accuracy and up-time.
 - Ready for mainnet.
