@@ -228,7 +228,7 @@ bilaterally benefit both sides.
 | | **Milestone 1** | **Milestone 2** | **Milestone 3** | **total** |
 | ---| --- | --- | --- | --- |
 | Estimated Duration | 4 months | 2 months | 2 months | 8 months |
-| Full-time equivalent<br> (FTE) | 6 developers | 6 developers | 6 developers | |             
+| Full-time equivalent<br> (FTE) | 9 developers | 9 developers | 9 developers | |             
 | Cost | $19,000 development<br> cost <br>(Smart contracts: $10,000 <br>Backend: $5,000 <br>Frontend: $2,000<br>Designer: $1,000 <br>Server: $1,000) | $18,000 development<br> cost <br>(Smart contracts: $7,000 <br>Backend: $5,000 <br>Frontend: $2,000 <br>Designer: $3,000  <br>Server: $1,000) | $13,000 development cost <br>(Smart contracts: $5,000 <br>Backend: $4,000 <br>Frontend: $3,000 <br>Server: $1,000) <br>  | $50,000 |             
 
 General Grant Application
