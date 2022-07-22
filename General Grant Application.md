@@ -179,7 +179,7 @@ bilaterally benefit both sides.
 || Mr. Tram Vo (CTO) |
 | Team members | Mr. Phat Nguyen (DevOps Team Lead) |
 || Mr. Hanh Nguyen (Frontend Team Lead)|
-||+ 1 system engineer<br>+ 1 frontend engineers<br>+ 2 blockchain engineers<br>+ 2 backend engineers<br>+ 1 tester<br>+ 1 designer|
+||+ 1 system engineer<br>+ 2 frontend engineers<br>+ 3 blockchain engineers<br>+ 3 backend engineers<br>+ 1 tester<br>+ 1 designer|
 
 ### 2.2 Team Website
 |||
@@ -238,7 +238,7 @@ General Grant Application
 
 -   Estimated duration: 4 months
 
--   FTE: 6 developers
+-   FTE: 9 developers
 
 -   Cost: 19,000 USD
 
@@ -258,7 +258,7 @@ General Grant Application
 
 -   Estimated duration: 2 months
 
--   FTE: 6 developers
+-   FTE: 9 developers
 
 -   Cost: 18,000 USD 
 
@@ -270,7 +270,7 @@ General Grant Application
 
 -   Estimated duration: 2 months
 
--   FTE: 6 developers
+-   FTE: 9 developers
 
 -   Cost: 13,000 USD 
 
