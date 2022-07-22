@@ -1,4 +1,4 @@
-# W3F Grant Proposal
+# Grant Proposal
 
 # **1. Project Overview** 
 
