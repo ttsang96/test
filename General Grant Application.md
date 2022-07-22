@@ -229,7 +229,7 @@ bilaterally benefit both sides.
 | ---| --- | --- | --- | --- |
 | Estimated Duration | 4 months | 2 months | 2 months | 8 months |
 | Full-time equivalent<br> (FTE) | 6 developers | 6 developers | 6 developers | |             
-| Cost | $19,000 development<br> cost <br>(Smart contracts: $10,000 <br>Backend: $5,000 <br>Frontend: $2,000<br>Designer: $1,000 <br>Server: $1,000) | $17,500 development<br> cost <br>(Smart contracts: $7,000 <br>Backend: $5,000 <br>Frontend: $2,000 <br>Designer: $2,000  <br>Server: $1,500) | $14,500 development cost <br>(Smart contracts: $5,000 <br>Backend: $4,000 <br>Frontend: $2,000 <br>Server: $1,000) <br>  | $50,000 |             
+| Cost | $19,000 development<br> cost <br>(Smart contracts: $10,000 <br>Backend: $5,000 <br>Frontend: $2,000<br>Designer: $1,000 <br>Server: $1,000) | $17,000 development<br> cost <br>(Smart contracts: $7,000 <br>Backend: $5,000 <br>Frontend: $2,000 <br>Designer: $3,000  <br>Server: $1,000) | $14,000 development cost <br>(Smart contracts: $5,000 <br>Backend: $4,000 <br>Frontend: $3,000 <br>Server: $1,000) <br>  | $50,000 |             
 
 General Grant Application
 ### 
