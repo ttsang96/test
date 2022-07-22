@@ -229,7 +229,7 @@ bilaterally benefit both sides.
 | ---| --- | --- | --- | --- |
 | Estimated Duration | 4 months | 2 months | 2 months | 8 months |
 | Full-time equivalent<br> (FTE) | 9 developers | 9 developers | 9 developers | |             
-| Cost | $80,000 development<br> cost <br>(Smart contracts: $23,000 <br>Backend: $13,000 <br>Frontend: $7.5,000 <br>Designer: $4,5,000 <br>Server: $2,000) | $40,000 development<br> cost <br>(Smart contracts: $15,000 <br>Backend: $10,000 <br>Frontend: $10,000 <br>Designer: $4,000 <br>Server: $1,000) | $40,000 development cost <br>(Smart contracts: $15,000 <br>Backend: $10,000 <br>Frontend: $10,000 <br>Designer: $4,000 <br>Server: $1,000) <br> <br> $30,000 audit fees | $190,000 |             
+| Cost | $50,000 development<br> cost <br>(Smart contracts: $23,000 <br>Backend: $13,000 <br>Frontend: $7.5,000 <br>Designer: $4,5,000 <br>Server: $2,000) | $40,000 development<br> cost <br>(Smart contracts: $15,000 <br>Backend: $10,000 <br>Frontend: $10,000 <br>Designer: $4,000 <br>Server: $1,000) | $40,000 development cost <br>(Smart contracts: $15,000 <br>Backend: $10,000 <br>Frontend: $10,000 <br>Designer: $4,000 <br>Server: $1,000) <br> <br> $30,000 audit fees | $160,000 |             
 
 
 ### 
