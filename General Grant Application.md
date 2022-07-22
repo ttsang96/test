@@ -179,7 +179,7 @@ bilaterally benefit both sides.
 || Mr. Tram Vo (CTO) |
 | Team members | Mr. Phat Nguyen (DevOps Team Lead) |
 || Mr. Hanh Nguyen (Frontend Team Lead)|
-||+ 1 system engineer<br>+ 2 frontend engineers<br>+ 3 blockchain engineers<br>+ 3 backend engineers<br>+ 1 tester<br>+ 1 designer|
+||+ 1 system engineer<br>+ 1 frontend engineers<br>+ 2 blockchain engineers<br>+ 2 backend engineers<br>+ 1 tester<br>+ 1 designer|
 
 ### 2.2 Team Website
 |||
@@ -228,19 +228,19 @@ bilaterally benefit both sides.
 | | **Milestone 1** | **Milestone 2** | **Milestone 3** | **total** |
 | ---| --- | --- | --- | --- |
 | Estimated Duration | 4 months | 2 months | 2 months | 8 months |
-| Full-time equivalent<br> (FTE) | 9 developers | 9 developers | 9 developers | |             
-| Cost | $50,000 development<br> cost <br>(Smart contracts: $23,000 <br>Backend: $13,000 <br>Frontend: $7.5,000 <br>Designer: $4,5,000 <br>Server: $2,000) | $40,000 development<br> cost <br>(Smart contracts: $15,000 <br>Backend: $10,000 <br>Frontend: $10,000 <br>Designer: $4,000 <br>Server: $1,000) | $40,000 development cost <br>(Smart contracts: $15,000 <br>Backend: $10,000 <br>Frontend: $10,000 <br>Designer: $4,000 <br>Server: $1,000) <br> <br> $30,000 audit fees | $160,000 |             
+| Full-time equivalent<br> (FTE) | 6 developers | 6 developers | 6 developers | |             
+| Cost | $19,000 development<br> cost <br>(Smart contracts: $10,000 <br>Backend: $5,000 <br>Frontend: $2,000<br>Designer: $1,000 <br>Server: $1,000) | $17,500 development<br> cost <br>(Smart contracts: $7,000 <br>Backend: $5,000 <br>Frontend: $2,000 <br>Designer: $2,000  <br>Server: $1,500) | $14,500 development cost <br>(Smart contracts: $5,000 <br>Backend: $4,000 <br>Frontend: $2,000 <br>Server: $1,000) <br>  | $50,000 |             
 
-
+General Grant Application
 ### 
 
 ### *3.2.1 Milestone 1 --- Launch on VeChain testnet for the core lending functionalities* 
 
 -   Estimated duration: 4 months
 
--   FTE: 9 developers
+-   FTE: 6 developers
 
--   Cost: 50,000 USD
+-   Cost: 36,000 USD
 
 | **Number** | **Milestone** | **Key Activities** |
 | ---| --- | --- |
