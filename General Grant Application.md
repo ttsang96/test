@@ -175,10 +175,11 @@ bilaterally benefit both sides.
 ### 2.1 Team members
 |||
 | --- | --- |
-| Team leaders | Mr. Truong Phan (Head of Blockchain) |
+| Team leaders: | Mr. Thong Nguyen (CEO) |
 || Mr. Tram Vo (CTO) |
-| Team members | Mr. Phat Nguyen (DevOps Team Lead) |
+| Team members: | Mr. Phat Nguyen (DevOps Team Lead) |
 || Mr. Hanh Nguyen (Frontend Team Lead)|
+|| Mr. Truong Phan (Head Of Blockchain)|
 ||+ 1 system engineer<br>+ 2 frontend engineers<br>+ 3 blockchain engineers<br>+ 3 backend engineers<br>+ 1 tester<br>+ 1 designer|
 
 ### 2.2 Team Website
@@ -210,10 +211,12 @@ bilaterally benefit both sides.
 
 | **Name** | **Linked in Profile** |
 | --- | --- |
-| Mr. Truong Phan | https://www.linkedin.com/in/buckphan/ |
+| Mr. Thong Nguyen | https://www.linkedin.com/mwlite/in/thong-nguyen-92223734 |
 | Mr. Tram Vo | https://www.linkedin.com/in/tram-vo-a72309199/ |
 | Mr. Phat Nguyen | https://www.linkedin.com/in/phat-nguyen-kim-715481233/ |
 | Mr. Hanh Nguyen | https://www.linkedin.com/in/hanh-nguyen-21839923a/ |
+| Mr. Truong Phan | https://www.linkedin.com/in/buckphan/ |
+
 
 ##
 
